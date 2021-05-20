@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.project{
+  margin-right: auto;
+  margin-left: auto;
+  padding: 200px;
+}
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 250px;
+  }
+.gallery:hover {
+    border: 1px solid #777;
+  }
+ 
+.gallery img{
+    width: 150px;
+    padding: 5px;
+}
+
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
